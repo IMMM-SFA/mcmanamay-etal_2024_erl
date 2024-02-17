@@ -2,7 +2,7 @@ _your zenodo badge here_
 
 # mcmanamay_etal_2024_erl
 
-**Divergent Urban Land Trajectories Under Alternative Population Projections within the Shared Socioeconomic Pathways*
+**Divergent Urban Land Trajectories Under Alternative Population Projections within the Shared Socioeconomic Pathways**
 
 Ryan A. McManamay<sup>1\*</sup>, Alen Raad<sup>1,2</sup>, Chris R. Vernon<sup>3</sup>, Travis Thurber<sup>3</sup>, Jing Gao<sup>4</sup>, Stephen Powers<sup>2</sup>, Brian O'Neill<sup>3</sup>
 
@@ -31,21 +31,22 @@ Human, I.M. (2021, April 14). Project/repo:v0.1.0 (Version v0.1.0). Zenodo. http
 ## Data reference
 
 ### Input data
-Reference for each minted data source for your input data.  For example:
 
-Human, I.M. (2021). My input dataset name [Data set]. DataHub. https://doi.org/some-doi-number
+Jones, B., and B. C. O'Neill. 2020. Global One-Eighth Degree Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01. Palisades, New York: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/m30p-j498.
+
+1-km gridded data (Zoraghein and
+O’Neill 2020b)
 
 ### Output data
-Reference for each minted data source for your output data.  For example:
 
-Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/some-doi-number
+McManamay, R., Thurber, T., Vernon, C. R., O'Neill, B. C., & Gao, J. (2022). IM3 SELECT Urbanization Data (v1.0.0) [Data set]. MSD-LIVE Data Repository. https://doi.org/10.57931/1887521
 
 ## Contributing modeling software
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
-| model 1 | version | link to code repository | link to DOI dataset |
-| model 2 | version | link to code repository | link to DOI dataset |
-| component 1 | version | link to code repository | link to DOI dataset |
+| Spatially-Explicit, Long-term, Empirical City developmenT (SELECT) | v1.0.0 | https://github.com/IMMM-SFA/select | https://doi.org/10.5281/zenodo.7083151 |
+| spatial scaling algorithm (Gao and Pesari 2021) | version | link to code repository | link to DOI dataset |
+| R | v4.2.1 | https://cran.r-project.org/bin/windows/base/old/4.2.1/ | link to DOI dataset |
 
 ## Reproduce my experiment
 Fill in detailed info here or link to other documentation that is a thorough walkthrough of how to use what is in this repository to reproduce your experiment.
