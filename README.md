@@ -57,8 +57,11 @@ Fill in detailed info here or link to other documentation that is a thorough wal
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
-| `step_one.py` | Script to run the first part of my experiment | `python3 step_one.py -f /path/to/inputdata/file_one.csv` |
-| `step_two.py` | Script to run the last part of my experiment | `python3 step_two.py -o /path/to/my/outputdir` |
+| `Original_UpdatedPop_1km_comp_V2.R` | Script to run the main part of the experiment to compare urban fraction between default and original population in urban and rural areas  | `R-4.0.3 Original_UpdatedPop_1km_comp_V2.R` |
+| `Population_comparison_v2.R` | Script to import population and calculate and plot population delta | `R-4.0.3 Population_comparison_v2.R` |
+| `PopDelta_ULD_comparison_v2.R` | Script to compare population delta and urban land delta | `R-4.0.3 PopDelta_ULD_comparison_v2.R` |
+| `Cluster_code_v2.R` | Script to cluster urban areas and rural areas by changes in urban land delta and visualize patterns | `R-4.0.3 Cluster_code_v2.R`|
+| `Cities_case_studies_code_v2.R` | Script to compare and visualize patterns in different cities | `R-4.0.3 Cities_case_studies_code_v2.R`|
 
 4. Download and unzip the output data from my experiment [Output data](#output-data)
 5. Run the following scripts in the `workflow` directory to compare my outputs to those from the publication
@@ -72,4 +75,7 @@ Use the scripts found in the `figures` directory to reproduce the figures used i
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
-| `generate_figures.py` | Script to generate my figures | `python3 generate_figures.py -i /path/to/inputs -o /path/to/outuptdir` |
+| `Population_comparison_v2.R` | Script to import population and calculate and plot population delta | `R-4.0.3 Population_comparison_v2.R` |
+| `PopDelta_ULD_comparison_v2.R` | Script to compare population delta and urban land delta | `R-4.0.3 PopDelta_ULD_comparison_v2.R` |
+| `Cluster_code_v2.R` | Script to cluster urban areas and rural areas by changes in urban land delta | `R-4.0.3 Cluster_code_v2.R`|
+| `Cities_case_studies_code_v2.R` | Script to compare and visualize patterns in different cities | `R-4.0.3 Cities_case_studies_code_v2.R`|
