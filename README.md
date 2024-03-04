@@ -45,8 +45,7 @@ McManamay, R., Thurber, T., Vernon, C. R., O'Neill, B. C., & Gao, J. (2022). IM3
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
 | Spatially-Explicit, Long-term, Empirical City developmenT (SELECT) | v1.0.0 | https://github.com/IMMM-SFA/select | https://doi.org/10.5281/zenodo.7083151 |
-| spatial scaling algorithm (Gao and Pesari 2021) | version | link to code repository | link to DOI dataset |
-| R | v4.2.1 | https://cran.r-project.org/bin/windows/base/old/4.2.1/ | link to DOI dataset |
+| R | v4.2.1 | https://cran.r-project.org/bin/windows/base/old/4.2.1/ | |
 
 ## Reproduce my experiment
 Fill in detailed info here or link to other documentation that is a thorough walkthrough of how to use what is in this repository to reproduce your experiment.
