@@ -41,6 +41,8 @@ O’Neill 2020b)
 
 McManamay, R., Thurber, T., Vernon, C. R., O'Neill, B. C., & Gao, J. (2022). IM3 SELECT Urbanization Data (v1.0.0) [Data set]. MSD-LIVE Data Repository. https://doi.org/10.57931/1887521
 
+McManamay, R., Vernon, C., Thurber, T., Gao, J., & O'Neill, B. (2024). Data for "Divergent urban land trajectories under alternative population projections within the shared socioeconomic pathways" (Version v1) [Data set]. MSD-LIVE Data Repository. https://doi.org/10.57931/2318472
+
 ## Contributing modeling software
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
