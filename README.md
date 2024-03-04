@@ -34,8 +34,7 @@ Human, I.M. (2021, April 14). Project/repo:v0.1.0 (Version v0.1.0). Zenodo. http
 
 Jones, B., and B. C. O'Neill. 2020. Global One-Eighth Degree Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01. Palisades, New York: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/m30p-j498.
 
-1-km gridded data (Zoraghein and
-O’Neill 2020b)
+Zoraghein H and O’Neill B 2020a Data supplement: U.S. state-level projections of the spatial distribution of population consistent with shared socioeconomic pathways. (v0.1.0) Zenodo 10.5281/zenodo.3756179
 
 ### Output data
 
