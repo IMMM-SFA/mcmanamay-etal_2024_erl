@@ -41,7 +41,7 @@ McManamay, R., Vernon, C., Thurber, T., Gao, J., & O'Neill, B. (2024). Data for 
 
 ## Reproduce my experiment
 
-1. Install the software components required to conduct the experiement from [Contributing modeling software](#contributing-modeling-software)
+1. Install the software components required to conduct the experiment from [Contributing modeling software](#contributing-modeling-software)
 2. Download and install the supporting input data required to conduct the experiement from [Input data](#input-data)
 3. Run the following scripts in the `workflow` directory to re-create this experiment. These scripts create the figures in this publication:
 
