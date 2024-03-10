@@ -53,9 +53,4 @@ McManamay, R., Vernon, C., Thurber, T., Gao, J., & O'Neill, B. (2024). Data for 
 | `Cluster_code_v2.R` | Script to cluster urban areas and rural areas by changes in urban land delta and visualize patterns. Creates a figure. | `R-4.0.3 Cluster_code_v2.R`|
 | `Cities_case_studies_code_v2.R` | Script to compare and visualize patterns in different cities. Creates a figure. | `R-4.0.3 Cities_case_studies_code_v2.R`|
 
-4. Download and unzip the output data from my experiment [Output data](#output-data)
-5. Run the following scripts in the `workflow` directory to compare my outputs to those from the publication
-
-| Script Name | Description | How to Run |
-| --- | --- | --- |
-| `compare.py` | Script to compare my outputs to the original | `python3 compare.py --orig /path/to/original/data.csv --new /path/to/new/data.csv` |
+4. Compare the outputs by downloading and unziping the output data from my experiment [Output data](#output-data).
