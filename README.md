@@ -1,4 +1,4 @@
-_your zenodo badge here_
+[![DOI](https://zenodo.org/badge/742071824.svg)](https://zenodo.org/doi/10.5281/zenodo.11206382)
 
 # mcmanamay_etal_2024_erl
 
